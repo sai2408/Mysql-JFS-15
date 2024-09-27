@@ -1,0 +1,20 @@
+1. WAQ - select all the columns along with the password created using the first five characters of fname and ending with first five characters of lname as newpassword from details table.
+2. ⁠WAQT Select Fname and Lname of the employees from employee, which employees salaries are from 10000 to 20000.
+3. ⁠WAQT update the the name data type from char to varchar which can hols upto 56 bytes of employees table.
+4. ⁠WAQT to selct the details whose first name is palindromic string.
+5. ⁠WAQT select full name seperated by space from details table which consists of fname, lname and age.
+6. ⁠WAQT select fname and lname by replacing all the letters in fname from a to z and replace all the letters names from z to a as newfname and newlname.
+7. WAQT delete all the values from details table whose salary is less than 25000 and belongs to mechnical dept.
+8. ⁠WAQT update the age from current age by 5 years whose birth_year belongs to 2001 from codegnan table.
+9. ⁠WAQT select all the column values seperated by space in a single column from bob table using concat_ws method.
+10. ⁠WAQT select all columns from america table where the mobile column have the format of xx-xx-xx.
+11. ⁠WAQT select all the columns from russia table where the names starts with y and age less than 24.
+12. ⁠WAQT select all the values from timer table whose timer column has single houred values.
+13. ⁠WAQT create a table with the name students which consists of sid with integer, Sname with string and age with integer. Assign the default value 0 to age and name should not be empty.
+14. ⁠WAQT create a table with the name employyees which consists of name of string, Mobile of string, age of integer and stream as string. Ensure while data insertion only the candidates belongs to ECE and CSE and the mobile which should have only 10 digits data should be entered.
+15. ⁠Explain about Primary key and key rules of primary key.
+16. ⁠Explain the syntax of check constraint with the basic example.
+17. ⁠Explain the differences between lenght and char_length functions.
+18. ⁠Explain the differences between null and not null.
+19. ⁠Explain the any three string functions with clear syntax and and example.
+20. ⁠Explain the primary constraint with syntax and example.
